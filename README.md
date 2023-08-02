@@ -9,7 +9,7 @@
 <h4>👨‍💻 Homelab Projects:</h4>
 
 - <b>Active Directory</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/Jconway27/Active-Directory.git)
 - <b>SIEM</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Vulnerability Management</b>
