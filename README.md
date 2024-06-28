@@ -1,9 +1,9 @@
 <h1> Hi, I'm James Conway! <br> Cyber Security Student </br>
 
 <h2> Brookdale Community College </h2>
-<br> I am actively persuing a career change by studying Network Information Technology with a focus in Cybersecurity at Brookdale Community College in Lincroft, NJ. Graduation date set for May 2024 with an Associate of Applied Sciences degree. </br>
-<br> I have a Bachelors degree in History with a minor in Geography and a concentration in International Studies (focused in Middle Eastern studies) from Rowan University, Glassboro, NJ 2010. </br>
-<br> I am employed by American Shredder, Inc., in Lakewood, NJ for the past 17 years. </br>
+<br> Energetic and experienced mid-career professional transitioning to a career in cybersecurity. I have recently finished an Associate of Applied Science (A.A.S.) degree in Network Information Technology with a concentration in Cybersecurity at Brookdale Community College's STEM Institute. The program is a designated National Center of Academic Excellence in Cyber Defense Education (CAE-CDE) by the US Department of Homeland Security's National Security Agency. Skilled in Windows and Linux OS, system administration, virtualization, SIEM, risk analysis, ethical hacking, and team leadership. </br>
+<br> I also have a Bachelors degree in History with a minor in Geography and a concentration in International Studies (focused in Middle Eastern studies) from Rowan University, Glassboro, NJ. </br>
+
 
 
 <h4>👨‍💻 Homelab Projects:</h4>
