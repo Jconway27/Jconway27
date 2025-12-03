@@ -1,7 +1,7 @@
 <h1> Hi, I'm James Conway! <br> Network Technology & Cyber Security Student </br>
 
 </h2>
-<br> Energetic and experienced mid-career professional transitioning to a career in cybersecurity. I have recently finished an Associate of Applied Science (A.A.S.) degree in Network Information Technology with a concentration in Cybersecurity at Brookdale Community College's STEM Institute. The program is a designated National Center of Academic Excellence in Cyber Defense Education (CAE-CDE) by the US Department of Homeland Security's National Security Agency. Skilled in Windows and Linux OS, system administration, virtualization, SIEM, risk analysis, ethical hacking, and team leadership. </br>
+<br> CompTIA Security+ certified IT professional with practical experience in SIEM monitoring, log analysis, incident triage, and threat detection. Skilled in Windows/Linux administration, Active Directory, network protocols, firewall/VPN configuration, and packet analysis. Hands-on background with honeypots, vulnerability scanning, scripting, and virtualization. Trained through a DHS/NSA CAE-CDE–designated cybersecurity program with a strong focus on NIST frameworks and real-world security operations. Brings disciplined troubleshooting, clear escalation reporting, and a reliable, security-first mindset to SOC and cybersecurity analyst roles. </br>
 <br> I also have a Bachelors degree in History with a minor in Geography and a concentration in International Studies (focused in Middle Eastern studies) from Rowan University, Glassboro, NJ. </br>
 
 
